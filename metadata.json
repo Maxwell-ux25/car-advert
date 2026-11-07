@@ -1,0 +1,6 @@
+{
+  "name": "Apex Prestige Car Hire Kenya",
+  "description": "Premium 3D luxury car hire and executive chauffeur services based in Nairobi, Kenya. Explore our elite fleet and book instantly via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
